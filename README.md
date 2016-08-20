@@ -1,5 +1,10 @@
 # <center> MCELOG中文 </center>
 
+#### 希望有小伙伴一起来翻译 http://www.mcelog.org 网址的内容
+#### Github：https://github.com/webtocn/mcelog 
+#### QQ群：234490554
+
+
 ## For Users
 
 ### [Configuration](ForUsers/Configuration.md))
